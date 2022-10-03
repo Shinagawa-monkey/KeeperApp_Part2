@@ -5,8 +5,6 @@ import Note from "./Note";
 import notes from "../notes";
 
 function App() {
-  //console.log(notes);
-  
   return (
     <div>
       <Header />
