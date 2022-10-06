@@ -4,8 +4,6 @@ import Footer from "./Footer";
 import Note from "./Note";
 import notes from "../notes";
 
-//Can use Class Components, but fucntional is better & easier to debug
-
 function App() {
   return (
     <div>
