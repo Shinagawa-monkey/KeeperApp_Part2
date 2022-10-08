@@ -4,7 +4,7 @@ import Footer from "./Footer";
 import Note from "./Note";
 import notes from "../notes";
 
-function App() {
+export default function App() {
   return (
     <div>
       <Header />
@@ -16,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+//export default App;
