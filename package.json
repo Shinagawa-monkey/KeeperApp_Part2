@@ -1,6 +1,6 @@
 {
-  "name": "keeper-app-part-2-starting",
-  "version": "1.0.0",
+  "name": "KeeperApp",
+  "version": "2.0.0",
   "description": "Keeper - A Simple Note-Taking App",
   "keywords": ["keeper", "note-taking", "app", "react", "typescript", "frontend", "web", "development", "javascript"],
   "main": "src/index.js",
